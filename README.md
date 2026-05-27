@@ -1,17 +1,18 @@
-# [Project Code] — [Project Title]
+# P6 — ResumeMatch-AI — Semantic Resume ↔ JD Matcher with Explanations
 
-**Student:** [Your Name]
+**Student:** MANUKONDA MOKSHAGNA SAI
 **Mentor:** Dr. Kanthi Kiran Sirra
 **Duration:** 25 May – 19 July 2026
 
 ## Problem
-[1-paragraph problem statement from the menu]
+Score resume-to-JD fit using embeddings, generate gap explanations via an LLM, and suggest concrete 
+resume edits with before/after diffs.
 
 ## Approach
 [To be filled in by Week 2]
 
 ## Tech Stack
-[From your project's menu entry]
+sentence-transformers, Chroma, Gemma 3, Streamlit 
 
 ## Status
 - [ ] Week 1: Foundation
