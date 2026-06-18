@@ -197,7 +197,7 @@ This lightweight transformer model produces high-quality sentence embeddings and
 - Compare resumes with job descriptions.
 - Integrate with semantic search applications.
 
----
+
 
 ## Author
 
