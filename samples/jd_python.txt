@@ -1,0 +1,18 @@
+Python Developer
+
+We are looking for a Python Developer with experience in Python programming, object-oriented programming, REST APIs, SQL, Git, Linux, and machine learning fundamentals.
+
+Responsibilities:
+- Develop Python applications
+- Build REST APIs
+- Work with SQL databases
+- Use Git for version control
+- Collaborate with software development teams
+
+Required Skills:
+- Python
+- SQL
+- Git
+- Linux
+- Problem Solving
+- Machine Learning (basic knowledge)
